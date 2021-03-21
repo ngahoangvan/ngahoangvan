@@ -13,8 +13,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🤔 I’m just a **Developer**
-- 📫 See me on [LinkedIn](https://www.linkedin.com/in/nga-hoang-5a8240195/)
+- 🤔 I’m currently working on Python (Django,Flask) and NodeJS (Express)
+- 📫 See me on [LinkedIn](https://www.linkedin.com/in/ngahoangvan/)
+- 📰 [My Resumes](https://github.com/ngahoangvan/resume/blob/master/resume.pdf)
 
 [![Nga's github stats](https://github-readme-stats.vercel.app/api?username=ngahoangvan&hide=issues&show_icons=true)](https://github.com/ngahoangvan)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ngahoangvan&layout=compact)](https://github.com/ngahoangvan)
