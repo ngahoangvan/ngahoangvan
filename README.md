@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 - 🤔 My name is **Nga Hoang** (my full Vietnamese name is **Hoàng Văn Ngà**) and I’m a software developer. I'm from Vietnam, living in Da Nang city.
 - 📫 See me on [<img src="assets/images/linkedin.png" height="15px">](https://www.linkedin.com/in/ngahoangvan/) and [<img src="assets/images/facebook.png" height="15px">](https://facebook.com/nga.v.hoang)
 - 📰 [My Resumes](https://github.com/ngahoangvan/resume/blob/master/resume.pdf)
+- 💼 [My portfolio](https://jhoangv.com)
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
@@ -29,14 +30,12 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/CI/CD-Gitlab%20CI-informational?style=flat&logo=gitlab&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/CI/CD-Github%20Actions-informational?style=flat&logo=githubactions&logoColor=white&color=2bbc8a)
 
-
-
-
+[<img src="https://komarev.com/ghpvc/?username=ngahoangvan&label=Profile%20views&color=0e75b6&style=flat">]()
 ## &#x1f4c8; GitHub Stats
-<a href="https://github.com/dungpham91/dungpham91">
+<a href="https://github.com/ngahoangvan/ngahoangvan">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ngahoangvan&hide=java,html,text,css&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
 </a>
-<a href="https://github.com/dungpham91/dungpham91">
+<a href="https://github.com/ngahoangvan/ngahoangvan">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ngahoangvan&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Dung Pham's GitHub Stats" />
 </a> 
 
