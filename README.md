@@ -53,6 +53,12 @@ me.say_hi()
 ![](https://img.shields.io/badge/CI/CD-Gitlab%20CI-informational?style=flat&logo=gitlab&logoColor=white&color=2bbc8a)
 ![Kubernetes](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=2bbc8a)
 
+
+## Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+
 ## 🏆 GitHub Trophies
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ngahoangvan&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
@@ -62,5 +68,5 @@ me.say_hi()
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ngahoangvan&hide=java,html,text,css&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
 </a>
 <a href="https://github.com/ngahoangvan/ngahoangvan">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ngahoangvan&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Dung Pham's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ngahoangvan&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Nga Hoang's GitHub Stats" />
 </a> 
