@@ -56,8 +56,8 @@ me.say_hi()
 
 ## Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [How I built this website? - Jekyll and AWS](/posts/how-i-built-this-website/)
-- [AWS SAA Cheatsheet](/posts/aws-saa-cheatsheet/)
+- [How I built this website? - Jekyll and AWS](https://blog.jhoangv.com/posts/how-i-built-this-website/)
+- [AWS SAA Cheatsheet](https://blog.jhoangv.com/posts/aws-saa-cheatsheet/)
 <!-- BLOG-POST-LIST:END -->
 
 
