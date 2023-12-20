@@ -56,7 +56,8 @@ me.say_hi()
 
 ## Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [How I built this website? - Jekyll and AWS](https://blog.jhoangv.com/posts/how-i-built-this-website/)
+- [Setup Jupyter Lab with Plotly](https://blog.jhoangv.com/posts/setup-jupyter-with-plotly/)
+- [How I built this website? - Jekyll and AWS &lpar;Part 1&rpar;](https://blog.jhoangv.com/posts/how-i-built-this-website/)
 - [AWS SAA Cheatsheet](https://blog.jhoangv.com/posts/aws-saa-cheatsheet/)
 <!-- BLOG-POST-LIST:END -->
 
