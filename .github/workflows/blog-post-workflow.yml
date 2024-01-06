@@ -16,4 +16,4 @@ jobs:
       - name: Pull in latest posts
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          feed_list: "https://blog.jhoangv.com/feed.xml"
+          feed_list: "https://ngahoangdev.com/feed.xml"
