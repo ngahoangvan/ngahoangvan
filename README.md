@@ -15,6 +15,7 @@ class SoftwareEngineer:
         self.role = "Software Engineer"
         self.language_spoken = ["vi_VN", "en_US"]
         self.resume = "https://github.com/ngahoangvan/resume/blob/master/resume.pdf"
+        self.blog = "https://ngahoangdev.com"
         self.portfolio = "https://jhoangv.com"
 
     def say_hi(self):
