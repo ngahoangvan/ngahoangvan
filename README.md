@@ -57,11 +57,11 @@ me.say_hi()
 
 ## Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Happy Lunar New Year — Year of the Horse!](https://ngahoangdev.com/posts/happy-new-year-of-the-horse/)
 - [Comeback after a long time](https://ngahoangdev.com/posts/comeback-after-a-long-time/)
 - [Set up a Nginx Ingress on k8s](https://ngahoangdev.com/posts/set-up-nginx-ingress-on-k8s/)
 - [Set up a Kubernetes cluster using k0s](https://ngahoangdev.com/posts/set-up-k8s-cluster-using-k0s/)
 - [How I built this website? - Jekyll and AWS &lpar;Part 3&rpar;](https://ngahoangdev.com/posts/how-i-built-this-website-part-3/)
-- [How I built this website? - Jekyll and AWS &lpar;Part 2&rpar;](https://ngahoangdev.com/posts/how-i-built-this-website-part-2/)
 <!-- BLOG-POST-LIST:END -->
 
 
