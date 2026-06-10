@@ -97,6 +97,13 @@ me = SoftwareEngineer()
   </picture>
 </p>
 
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ngahoangvan/ngahoangvan/output/github-snake-dark.svg" />
+    <img src="https://raw.githubusercontent.com/ngahoangvan/ngahoangvan/output/github-snake.svg" alt="Contribution snake animation" />
+  </picture>
+</p>
+
 ---
 
 <p align="center"><i>"Dare to think, dare to do."</i></p>
