@@ -68,11 +68,11 @@ me = SoftwareEngineer()
 ## 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [How I built this website? - Jekyll and AWS &lpar;Part 3&rpar;](https://ngahoangdev.com/posts/how-i-built-this-website-part-3/)
-- [How I built this website? - Jekyll and AWS &lpar;Part 2&rpar;](https://ngahoangdev.com/posts/how-i-built-this-website-part-2/)
-- [Using Certbot to generate Let&#39;s Encrypt wildcard certificates](https://ngahoangdev.com/posts/using-certbot-to-generate-ceritificate-for-wildcard-domain/)
-- [Setup Jupyter Lab with Plotly](https://ngahoangdev.com/posts/setup-jupyter-with-plotly/)
-- [How I built this website? - Jekyll and AWS &lpar;Part 1&rpar;](https://ngahoangdev.com/posts/how-i-built-this-website-part-1/)
+- [AWS in 2026: The Announcements That Actually Matter](https://ngahoangdev.com/posts/aws-2026-announcements-that-matter/)
+- [Building a Chatbot for This Blog — Part 1: The Plan and the Architecture](https://ngahoangdev.com/posts/building-a-chatbot-for-my-blog-part-1/)
+- [What&#39;s New in Kubernetes 1.36 &lpar;Haru&rpar;](https://ngahoangdev.com/posts/whats-new-in-kubernetes-1-36/)
+- [Ingress NGINX is Dead — Migrating to Gateway API](https://ngahoangdev.com/posts/ingress-nginx-retired-migrating-to-gateway-api/)
+- [Happy Lunar New Year — Year of the Horse!](https://ngahoangdev.com/posts/happy-new-year-of-the-horse/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ More posts at [ngahoangdev.com](https://ngahoangdev.com)
